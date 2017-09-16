@@ -1,0 +1,105 @@
+/*******************************************
+NAV
+******************************************/
+.navbar-header {
+    float: left;
+}
+
+.dropdown {
+    float: right;
+    margin-top: 0.5em;
+}
+
+.navbar-fixed-top {
+    border-bottom: 2px solid  #00009b;
+}
+
+.btn {
+    border: 1px solid  #00009b;
+    color:  #00009b;
+}
+
+.caret {
+    color:   #00009b; 
+}
+
+
+
+/*******************************************
+HEADER
+******************************************/
+.jumbotron {
+    margin-top: 5em;
+}
+
+.jumbotron h1 {
+    color:  #00009b;
+    text-shadow: 1px 1px #808080;
+}
+
+.jumbotron p {
+    color: #2b2bff;
+}
+
+/*******************************************
+PANEL
+******************************************/
+.panel .the-mission {
+    background-color: #2b2bff;
+    color: #eee;
+}
+
+.panel .the-mission-body {
+    border: 1px solid #2b2bff;
+    border-top: none;
+}
+
+
+/*******************************************
+PROCESS
+******************************************/
+.section-header {
+    margin-bottom: 1.5em;
+}
+
+.sub-heading {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 0.1em;
+    color: #2b2bff; 
+}
+
+/*******************************************
+LINKS
+******************************************/
+.panel-title {
+    color: #2b2bff;
+}
+
+
+/*******************************************
+CLEARFIX
+******************************************/
+.clearfix {
+    clear: both;
+    margin-bottom: 5em;
+}
+
+/*******************************************
+ICONS
+******************************************/
+.fa {
+    color:  #00009b;
+}
+
+.glyphicon {
+    color:  #00009b;
+}
+
+
+/*******************************************
+FOOTER
+******************************************/
+
+.navbar-fixed-bottom {
+    border-top: 1px solid   #00009b;
+}

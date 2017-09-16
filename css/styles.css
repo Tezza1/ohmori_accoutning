@@ -1,0 +1,107 @@
+/*******************************************
+NAV
+******************************************/
+.navbar-header {
+    float: left;
+}
+
+.dropdown {
+    float: right;
+    margin-top: 0.5em;
+}
+
+.navbar-fixed-top {
+    border-bottom: 2px solid  #00009b;
+}
+
+.btn {
+    border: 1px solid  #00009b;
+    color:  #00009b;
+}
+
+.caret {
+    color:   #00009b; 
+}
+
+
+
+/*******************************************
+HEADER
+******************************************/
+.jumbotron {
+    margin-top: 5em;
+}
+
+.jumbotron h1 {
+    color:  #00009b;
+    text-shadow: 1px 1px #808080;
+}
+
+/*******************************************
+PANEL
+******************************************/
+
+
+/*******************************************
+PROCESS
+******************************************/
+.section-header {
+    margin-bottom: 1.5em;
+}
+
+.sub-heading {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 0.1em;
+}
+
+.arrow-row {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+/*******************************************
+LINKS
+******************************************/
+.affiliate-title {
+     display: inline;
+ }
+
+ .affiliate-logo {
+     max-height: 2em;
+ }
+
+/*******************************************
+CLEARFIX
+******************************************/
+.clearfix {
+    clear: both;
+    margin-bottom: 5em;
+}
+
+/*******************************************
+ICONS
+******************************************/
+.fa {
+    color:  #00009b;
+}
+
+.glyphicon {
+    color:  #00009b;
+}
+
+
+/*******************************************
+FOOTER
+******************************************/
+
+.navbar-fixed-bottom {
+    border-top: 1px solid   #00009b;
+}
+
+/*******************************************
+LANGUAGE OPTIONS
+******************************************/
+
+.japanese {
+    display: none;
+}
