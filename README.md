@@ -1,4 +1,4 @@
-# Website for Ohmori Consulting Services
+# Website for Ohmori Accounting Services
 
 * Designed as a digital business card
 * Mobile first
